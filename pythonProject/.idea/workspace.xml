@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="852257fb-8fdf-40d6-8943-e358870a061f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula04A-while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula04B-for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula5A-strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a2b5a4c5-6abd-4e41-a8ac-c0f17a360421" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aula 06-exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06-exercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06-exercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06-exercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06A-atividade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula6-exercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,40 +34,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2wpzaq5O9JHqZuHxAlr7nCS2c3L" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="30yyudlHFnZBaSuEPE8CghjUBHG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.aula02b-funcoesSimples.executor": "Run",
-    "Python.aula04A-while.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula 06-atividade3.executor": "Run",
+    "Python.aula06-exercicio3.executor": "Run",
+    "Python.aula06-exercicio4.executor": "Run",
+    "Python.aula06-exercicio5.executor": "Run",
+    "Python.aula06A-atividade.executor": "Run",
+    "Python.aula6-exercicio2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "editor.preferences.folding"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+        <option value="bundled-python-sdk-2ee2454479a3-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.122" />
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="852257fb-8fdf-40d6-8943-e358870a061f" name="Changes" comment="" />
-      <created>1746753370002</created>
+      <changelist id="a2b5a4c5-6abd-4e41-a8ac-c0f17a360421" name="Changes" comment="" />
+      <created>1754614332145</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1746753370002</updated>
+      <updated>1754614332145</updated>
     </task>
     <servers />
   </component>
