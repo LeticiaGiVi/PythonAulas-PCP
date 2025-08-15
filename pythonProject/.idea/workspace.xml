@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b5a4c5-6abd-4e41-a8ac-c0f17a360421" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula 06-exercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06-exercicio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06-exercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06-exercicio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06A-atividade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula6-exercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="39a76b84-afa5-4049-9ae0-bc95445058fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aula06-exercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07A-dicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07B-tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 06-exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-exercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-exercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-exercicio5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06A-atividade.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-atividade.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="30yyudlHFnZBaSuEPE8CghjUBHG" />
+  <component name="ProjectId" id="31IiLkDOzHgbzN25LLi63CfBztk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,12 +41,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.aula 06-atividade3.executor": "Run",
-    "Python.aula06-exercicio3.executor": "Run",
     "Python.aula06-exercicio4.executor": "Run",
     "Python.aula06-exercicio5.executor": "Run",
-    "Python.aula06A-atividade.executor": "Run",
-    "Python.aula6-exercicio2.executor": "Run",
+    "Python.aula06-exercicio6.executor": "Run",
+    "Python.aula07A-dicionario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -64,11 +58,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2b5a4c5-6abd-4e41-a8ac-c0f17a360421" name="Changes" comment="" />
-      <created>1754614332145</created>
+      <changelist id="39a76b84-afa5-4049-9ae0-bc95445058fc" name="Changes" comment="" />
+      <created>1755217935330</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1754614332145</updated>
+      <updated>1755217935330</updated>
     </task>
     <servers />
   </component>
