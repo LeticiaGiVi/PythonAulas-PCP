@@ -1,5 +1,6 @@
 from stages import lead_model
 import repo
+
 def main():
     while True:
         print_menu()
@@ -20,6 +21,7 @@ def add_lead():
     name = input("Nome: ")
     company = input("empresa: ")
     email = input("e-mail: ")
+    repo.create_lead(lead_model(name,company, email))
     print(lead_model(name, company, email))
     print("Lead adicionado")
 

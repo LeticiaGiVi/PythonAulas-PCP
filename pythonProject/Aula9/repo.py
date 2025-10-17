@@ -19,7 +19,7 @@ def _save(leads):
         encoding="utf-8"
     )
 
-def Create_lead(lead):
+def create_lead(lead):
     leads_loaded  = _load() #na primeira execução retorna array vazio, []
     leads_loaded.append(lead)
     _save(leads_loaded)
