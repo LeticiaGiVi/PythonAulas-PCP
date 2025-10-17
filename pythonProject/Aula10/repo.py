@@ -1,5 +1,6 @@
 from pathlib import Path
-import json
+import json, csv
+
 DATA_DIR = Path(__file__).resolve().parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 DB_PATH = DATA_DIR / "leads.json"
@@ -26,3 +27,16 @@ def create_lead(lead):
 
 def read_leads():
     return _load()
+
+def export_csv():
+    path_csv = DATA_DIR / "leads.csv"
+    leads = _load()
+    try:
+        with path_csv.open("w", newline="",encoding="utf-8") as file:
+            writer = csv.DictWriter(file,fieldnames=["name","company","email","stage","created"])
+            writer.writeheader()
+            for lead in leads:
+                writer.writerow(lead)
+        return path_csv
+    except PermissionError:
+        return None

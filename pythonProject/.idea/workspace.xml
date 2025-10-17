@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a76b84-afa5-4049-9ae0-bc95445058fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula9/APP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula9/APP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10/APP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10/repo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10/stages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula9/repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula9/repo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/labsfiap/Desktop/PythonAulas-PCP/pythonProject&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\labsfiap\Desktop\PythonAulas-PCP\pythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,5 +70,15 @@
       <updated>1755217935330</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Aula10/repo.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
