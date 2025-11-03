@@ -31,6 +31,32 @@ class LeadRepository:
     def read_leads(self):
         return self._load()
 
+    def list_leads(self):
+        leads = self._load()
+        if not leads:
+            print("Nenhum dado cadastrado")
+            return
+
+        print(f"\n ## | {'Nome':<20}| {'Empresa':<20}| {'E-mail':<20}")
+        for i, lead in enumerate(leads):
+            print(f"{i:02d} | {lead['name']:<20}| {lead['company']:<20}| {lead['email']:<20}")
+
+    def search_lead(self, user_search):
+        leads = self._load()
+        results = []
+        for lead in leads:
+            lead_str = f"{lead['name']}{lead['company']}{lead['email']}".lower()
+            if user_search in lead_str:
+                results.append(lead)
+
+        if not results:
+            print("nenhum resultado encontrado")
+            return
+
+        print(f"\n ## | {'Nome':<20}| {'Empresa':<20}| {'E-mail':<20}")
+        for i, lead in enumerate(results):
+            print(f"{i:02d} | {lead['name']:<20}| {lead['company']:<20}| {lead['email']:<20}")
+
     def export_csv(self):
         path_csv = self.DATA_DIR / "leads.csv"
         leads = self._load()
